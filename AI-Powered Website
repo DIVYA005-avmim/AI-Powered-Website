@@ -1,0 +1,26 @@
+PROMPT 
+
+Create a premium, cinematic, interactive travel website titled "Travel Above the Sky." Use my hosted video as the actual full-screen background of the Hero section, not as a placeholder or replacement. The website must use this exact video URL as the hero background:
+https://res.cloudinary.com/drzsabxvb/video/upload/v1784443678/Airplane_window_reveals_Eiffel_T__202607191128_umfnzf.mp4
+
+Requirements:
+
+Use the provided video as the Hero background by directly embedding this exact URL.
+Do not replace the video with a stock video, generated animation, gradient, or image.
+The video should autoplay, loop infinitely, remain muted, play inline, and cover the entire viewport while maintaining its aspect ratio.
+The video should create a realistic 3D immersive experience, making visitors feel like they are flying above the clouds at night.
+Add only a subtle dark overlay (30–40% opacity) so text remains readable without hiding the beauty of the video.
+
+Build a luxurious travel experience around the video with a dark blue nighttime theme, glassmorphism, smooth scrolling, soft glowing accents, realistic depth, elegant typography, floating UI elements, subtle parallax effects, and cinematic micro-interactions.
+
+The website should include:
+
+Home – Hero section with the full-screen background video.
+Journey – A storytelling section describing a peaceful flight above the clouds toward iconic destinations.
+Destinations – Highlight breathtaking places discovered during the journey, including the Eiffel Tower.
+Experience – Showcase the cinematic travel concept and encourage visitors to immerse themselves in the journey.
+Contact – A clean premium footer.
+
+Add a transparent navigation bar, a centered title "Travel Above the Sky", the subtitle "Experience a breathtaking journey above the clouds where every flight reveals a new destination.", and a modern glass-style "Begin the Journey" button.
+
+Ensure smooth page transitions, premium animations, responsive design, and an immersive storytelling experience where the provided video remains the centerpiece of the website from the moment the page loads. Do not substitute or remove the provided video URL.
